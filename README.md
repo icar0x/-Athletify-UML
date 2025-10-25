@@ -13,7 +13,7 @@ Fluxo conceitual: Navegação simulando a experiência real do sistema.
 
 🎥 Vídeo explicativo: Link do vídeo
 
-    Protótipo do Sistema: https://www.figma.com/make/VuaGk2NuACrRkVF26hrXr1/Athletify-App-Prototyping-Screens?node-id=0-4&t=A4h5u6y9BlqOuLzl-0 
+Protótipo do Sistema: https://www.figma.com/make/VuaGk2NuACrRkVF26hrXr1/Athletify-App-Prototyping-Screens?node-id=0-4&t=A4h5u6y9BlqOuLzl-0 
 
 Athletify: Gestão de treinos e acompanhamento de desempenho de forma prática e moderna! 🚀
 
