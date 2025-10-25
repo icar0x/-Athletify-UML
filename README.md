@@ -11,7 +11,7 @@ Acompanhamento de desempenho: Visualização resumida da evolução do usuário.
 Fluxo conceitual: Navegação simulando a experiência real do sistema.
 
 
-🎥 Vídeo explicativo: Link do vídeo
+🎥 Vídeo explicativo: https://www.capcut.com/tv2/ZSUTRQxCf/
 
 Protótipo do Sistema: https://www.figma.com/make/VuaGk2NuACrRkVF26hrXr1/Athletify-App-Prototyping-Screens?node-id=0-4&t=A4h5u6y9BlqOuLzl-0 
 
